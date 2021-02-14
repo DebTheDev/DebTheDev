@@ -27,5 +27,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: altine.deborah@gmail.com
 - 😄 Pronouns: she, her, hers
 - ⚡ Fun fact: I am an Anime weeb "I have the power of God and anime on my side!"
-
-![Alt Text](https://media.giphy.com/media/iIifSQSQUKteo/giphy.gif)
+![Alt Text](https://media.giphy.com/media/VJiQRddV3K46dL4u2o/giphy.gif)
+![Alt Text](https://media.giphy.com/media/2fPig3PMSsZqIbq0Tc/giphy.gif)
+![Alt Text](https://media.giphy.com/media/iIifSQSQUKteo/giphy.gif) 
