@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 -->
 
   ##### I'm a student at Thinkful!
-- 🔭 I’m currently working on Engineering Immersion program 
+-🔭 I’m currently working on an Engineering Immersion program 
 - 🌱 I’m currently learning HTML, CSS, and JavaScript
 - 👯 I’m looking to collaborate on Any fun JavaScript projects
-- 🤔 I’m looking for help with comfortable with on demand coding 
+- 🤔 I’m looking for help with getting comfortable with coding on-demand
 - 📫 How to reach me: altine.deborah@gmail.com
 - 😄 Pronouns: she, her, hers
 - ⚡ Fun fact: I am an Anime weeb "I have the power of God and anime on my side!"
