@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 
   ##### I'm a student at Thinkful!
--🔭 I’m currently working on an Engineering Immersion program 
+- 🔭 I’m currently working on an Engineering Immersion program 
 - 🌱 I’m currently learning HTML, CSS, and JavaScript
 - 👯 I’m looking to collaborate on Any fun JavaScript projects
 - 🤔 I’m looking for help with getting comfortable with coding on-demand
