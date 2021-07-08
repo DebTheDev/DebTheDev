@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on building custom websites 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate on any fun JavaScript projects
-- 🥅 2020 Goals: Land a Software Developer Job 
+- 🥅 2021 Goals: Land a Software Developer Job 
 - ⚡ Fun fact: I love Anime, Rollercoasters and music 
 
 ## ✉️ Find me on:
