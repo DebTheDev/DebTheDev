@@ -1,5 +1,5 @@
 
-# Hi there, I'm Deb - Software Developer 👋🏿
+# Hi there, I'm Deb - Software Engineer 👋🏿
 
 - 🔭 I’m currently working on building custom websites 
 - 🌱 I’m currently learning everything 🤣
